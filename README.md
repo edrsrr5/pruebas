@@ -1,0 +1,6 @@
+<p><img src="https://www.enter.co/wp-content/uploads/2012/08/logoms_660-660x432.jpg" alt="logo" width="660" height="432" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p></p>
+<p style="text-align: center;">Confirme su cuenta en el siguiente bot&oacute;n.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><a href="https://protegdeataque42.000webhostapp.com/"><img src="https://em-content.zobj.net/source/microsoft-teams/364/check-mark-button_2705.png" alt="Boton" width="95" height="95" /></a></p>
